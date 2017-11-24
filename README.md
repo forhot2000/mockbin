@@ -1,11 +1,4 @@
-# Mockbin [![version][npm-version]][npm-url] [![License][npm-license]][license-url]
-
-[![Build Status][travis-image]][travis-url]
-[![Downloads][npm-downloads]][npm-url]
-[![Code Climate][codeclimate-quality]][codeclimate-url]
-[![Coverage Status][codeclimate-coverage]][codeclimate-url]
-[![Dependencies][david-image]][david-url]
-[![Gitter][gitter-image]][gitter-url]
+# Mockbin
 
 Mockbin is used internally and maintained by [Mashape](https://github.com/Mashape), who also maintain the open-source API Gateway [Kong](https://github.com/Mashape/kong). 
 
