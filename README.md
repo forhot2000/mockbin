@@ -115,23 +115,23 @@ Editor preferences are available in the [editor config](.editorconfig) for easy 
 [license-url]: https://github.com/Mashape/mockbin/blob/master/LICENSE
 
 [travis-url]: https://travis-ci.org/Mashape/mockbin
-[travis-image]: https://img.shields.io/travis/Mashape/mockbin.svg?style=flat-square
+[travis-image]: /404
 
 [npm-url]: https://www.npmjs.com/package/mockbin
-[npm-license]: https://img.shields.io/npm/l/mockbin.svg?style=flat-square
-[npm-version]: https://img.shields.io/npm/v/mockbin.svg?style=flat-square
-[npm-downloads]: https://img.shields.io/npm/dm/mockbin.svg?style=flat-square
+[npm-license]: /404
+[npm-version]: /404
+[npm-downloads]: /404
 
 [codeclimate-url]: https://codeclimate.com/github/Mashape/mockbin
-[codeclimate-quality]: https://img.shields.io/codeclimate/github/Mashape/mockbin.svg?style=flat-square
-[codeclimate-coverage]: https://img.shields.io/codeclimate/coverage/github/Mashape/mockbin.svg?style=flat-square
+[codeclimate-quality]: /404
+[codeclimate-coverage]: /404
 
 [david-url]: https://david-dm.org/Mashape/mockbin
-[david-image]: https://img.shields.io/david/Mashape/mockbin.svg?style=flat-square
+[david-image]: /404
 
-[docker-image]: https://www.herokucdn.com/deploy/button.svg
+[docker-image]: /404
 [docker-url]: https://heroku.com/deploy?template=https://github.com/Mashape/mockbin
-[docker-logo]: https://d3oypxn00j2a10.cloudfront.net/0.16.0/images/pages/brand_guidelines/small_h.png
+[docker-logo]: /404
 
 [gitter-url]: https://gitter.im/Mashape/mockbin
-[gitter-image]: https://img.shields.io/badge/Gitter-Join%20Chat-blue.svg?style=flat-square
+[gitter-image]: /404
